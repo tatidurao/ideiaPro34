@@ -1,1 +1,1 @@
-# ideiaPro34
+# pro-c25-template
